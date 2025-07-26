@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # load the model
-with open(r"C:\Users\athar\OneDrive\Documents\Desktop\streamlit\boston house price\model.pkl", "rb") as f:
+with open("model.pkl", "rb") as f:
     model = pickle.load(f)
     
 # App title
