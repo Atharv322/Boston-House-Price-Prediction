@@ -10,12 +10,11 @@ This project predicts house prices in Boston using a machine learning model trai
 ## 📂 Files
 - `app.py` – Web app script
 - `model.pkl` – Trained model
-- `scaler.pkl` – Scaling the model
 - `requirements.txt` – Python dependencies
 - `.ipynb` – Model training code
 
 ## 🧠 How It Works
 1. User inputs housing data
 2. Model predicts price instantly
-3. Result shown 
+3. Result on Streamlit UI
 
